@@ -1,0 +1,3 @@
+# pip install -r requirements.txt
+usb-iss
+ft4222==1.12.0
