@@ -18,7 +18,7 @@ import os
 import sys
 import time
 
-from i2c_base import I2CDeviceBase
+from .i2c_base import I2CDeviceBase
 
 __version__ = "0.0.2"
 __date__ = "27 Aug 2013"

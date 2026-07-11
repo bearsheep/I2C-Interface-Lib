@@ -7,7 +7,7 @@
 import time
 from usb_iss import UsbIss
 
-from i2c_base import I2CDeviceBase
+from .i2c_base import I2CDeviceBase
 
 # Define #
 USB_ISS_Write_delay = 0.01 # SPEC = 80ms in 8 bytes.

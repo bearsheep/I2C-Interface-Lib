@@ -1,7 +1,7 @@
 import time
 
-from i2c_base import I2CDeviceBase
-from ft4222_device import FT4222I2CDevice
+from .i2c_base import I2CDeviceBase
+from .ft4222_device import FT4222I2CDevice
 
 
 class I2C_FT4222(I2CDeviceBase):
